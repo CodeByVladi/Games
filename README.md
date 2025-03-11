@@ -6,7 +6,7 @@ This repository contains various games that I am creating. Each game will be a f
 
 ## Games
 
-- **Blackjack**: A simple implementation of the classic card game Blackjack.
+- **Blackjack (Console)**: A simple implementation of the classic card game Blackjack.
 
 ## How to Run
 
